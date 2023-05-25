@@ -1,0 +1,38 @@
+#container{
+    background-color:green ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#imgcharacters{
+    display:flex;
+    flex-wrap: wrap;
+    border-radius: 100px;
+    border-style: double;
+
+}
+
+#namecharacters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: large;
+
+}
+
+#statuscharacters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: large;
+
+}
+
+#origincharacters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: large;
+
+}
